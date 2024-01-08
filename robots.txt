@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://dominoqq.ezengine.net/sitemap.xml
